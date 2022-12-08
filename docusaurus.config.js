@@ -81,15 +81,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -103,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://community.kuroneko6423.com',
+                href: 'https://discord.kuroneko6423.com',
               },
               {
                 label: 'Twitter',
